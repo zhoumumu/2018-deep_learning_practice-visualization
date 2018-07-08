@@ -1,0 +1,124 @@
+{"picture_name": "1321806490651324152.jpg", "confidence": "0.36976942", "predict": "canoe"}
+{"picture_name": "1321806490651324152.jpg", "confidence": "0.36976942", "predict": "canoe"}
+{"picture_name": "IMG_5971.JPG", "confidence": "0.12792216", "predict": "sax, saxophone"}
+{"picture_name": "IMG_5971.JPG", "confidence": "0.12792216", "predict": "sax, saxophone"}
+{"picture_name": "IMG_5971.JPG", "confidence": "0.12792216", "predict": "sax, saxophone"}
+{"picture_name": "5.jpg", "confidence": "0.9992681", "predict": "viaduct"}
+{"picture_name": "\u4e09\u7b20.jpg", "confidence": "0.14498171", "predict": "comic book"}
+{"picture_name": "\u4e09\u7b20.jpg", "confidence": "0.14498171", "predict": "comic book"}
+{"picture_name": "\u4e09\u7b20.jpg", "confidence": "0.14498171", "predict": "comic book"}
+{"picture_name": "\u4e09\u7b20.jpg", "confidence": "0.14498171", "predict": "comic book"}
+{"picture_name": "picture1.png", "confidence": "0.28417346", "predict": "web site, website, internet site, site"}
+{"picture_name": "\u4e09\u7b20.jpg", "confidence": "0.14498171", "predict": "comic book"}
+{"picture_name": "\u4e09\u7b20.jpg", "confidence": "0.14498171", "predict": "comic book"}
+{"picture_name": "\u4e09\u7b20.jpg", "confidence": "0.14498171", "predict": "comic book"}
+{"picture_name": "\u4e09\u7b20.jpg", "confidence": "0.14498171", "predict": "comic book"}
+{"picture_name": "\u4e09\u7b20.jpg", "confidence": "0.14498171", "predict": "comic book"}
+{"picture_name": "\u4e09\u7b20.jpg", "confidence": "0.14498171", "predict": "comic book"}
+{"picture_name": "\u4e09\u7b20.jpg", "confidence": "0.14498171", "predict": "comic book"}
+{"picture_name": "\u4e09\u7b20.jpg", "confidence": "0.14498171", "predict": "comic book"}
+{"picture_name": "\u4e09\u7b20.jpg", "confidence": "0.14498171", "predict": "comic book"}
+{"picture_name": "三笠.jpg", "confidence": "0.14498171", "predict": "comic book"}
+{"picture_name": "三笠.jpg", "confidence": "0.14498171", "predict": "comic book"}
+{"picture_name": "三笠.jpg", "confidence": "0.14498171", "predict": "comic book"}
+{"picture_name": "三笠.jpg", "confidence": "0.14498171", "predict": "comic book"}
+{"picture_name": "三笠.jpg", "confidence": "0.14498171", "predict": "comic book"}
+{"picture_name": "picture1.png", "confidence": "0.28417346", "predict": "web site, website, internet site, site"}
+{"picture_name": "三笠.jpg", "confidence": "0.14498171", "predict": "comic book"}
+{"picture_name": "三笠.jpg", "confidence": "0.14498171", "predict": "comic book"}
+{"picture_name": "三笠.jpg", "confidence": "0.14498171", "predict": "comic book"}
+{"picture_name": "三笠.jpg", "confidence": "0.14498171", "predict": "comic book"}
+{"picture_name": "三笠.jpg", "confidence": "0.14498171", "predict": "comic book"}
+{"picture_name": "三笠.jpg", "confidence": "0.14498171", "predict": "comic book"}
+{"picture_name": "adv_三笠.jpg", "confidence": "0.6240318", "predict": "unicycle, monocycle"}
+{"picture_name": "9933031-large.jpg", "confidence": "0.43742743", "predict": "mountain bike, all-terrain bike, off-roader"}
+{"picture_name": "9933031-large.jpg", "confidence": "0.43742743", "predict": "mountain bike, all-terrain bike, off-roader"}
+{"picture_name": "9933031-large.jpg", "confidence": "0.43742743", "predict": "mountain bike, all-terrain bike, off-roader"}
+{"picture_name": "9933031-large.jpg", "confidence": "0.43742743", "predict": "mountain bike, all-terrain bike, off-roader"}
+{"picture_name": "9933031-large.jpg", "confidence": "0.43742743", "predict": "mountain bike, all-terrain bike, off-roader"}
+{"picture_name": "9933031-large.jpg", "confidence": "0.43742743", "predict": "mountain bike, all-terrain bike, off-roader"}
+{"picture_name": "adv_9933031-large.jpg", "confidence": "0.5771808", "predict": "unicycle, monocycle"}
+{"picture_name": "9933031-large.jpg", "confidence": "0.43742743", "predict": "mountain bike, all-terrain bike, off-roader"}
+{"picture_name": "9933031-large.jpg", "confidence": "0.43742743", "predict": "mountain bike, all-terrain bike, off-roader"}
+{"picture_name": "adv_9933031-large.jpg", "confidence": "0.5771808", "predict": "unicycle, monocycle"}
+{"picture_name": "9933031-large.jpg", "confidence": "0.43742743", "predict": "mountain bike, all-terrain bike, off-roader"}
+{"picture_name": "9933031-large.jpg", "confidence": "0.43742743", "predict": "mountain bike, all-terrain bike, off-roader"}
+{"picture_name": "9933031-large.jpg", "confidence": "0.43742743", "predict": "mountain bike, all-terrain bike, off-roader"}
+{"picture_name": "9933031-large.jpg", "confidence": "0.43742743", "predict": "mountain bike, all-terrain bike, off-roader"}
+{"picture_name": "三笠.jpg", "confidence": "0.14498171", "predict": "comic book"}
+{"picture_name": "三笠.jpg", "confidence": "0.14498171", "predict": "comic book"}
+{"picture_name": "adv_三笠.jpg", "confidence": "0.6240318", "predict": "unicycle, monocycle"}
+{"picture_name": "三笠.jpg", "confidence": "0.14498171", "predict": "comic book"}
+{"picture_name": "adv_三笠.jpg", "confidence": "0.6240318", "predict": "unicycle, monocycle"}
+{"picture_name": "三笠.jpg", "confidence": "0.14498171", "predict": "comic book"}
+{"picture_name": "adv_三笠.jpg", "confidence": "0.6240318", "predict": "unicycle, monocycle"}
+{"picture_name": "9933031-large.jpg", "confidence": "0.43742743", "predict": "mountain bike, all-terrain bike, off-roader"}
+{"picture_name": "adv_9933031-large.jpg", "confidence": "0.5771808", "predict": "unicycle, monocycle"}
+{"picture_name": "三笠.jpg", "confidence": "0.14498171", "predict": "comic book"}
+{"picture_name": "三笠.jpg", "confidence": "0.14498171", "predict": "comic book"}
+{"picture_name": "三笠.jpg", "confidence": "0.14498171", "predict": "comic book"}
+{"picture_name": "adv_三笠.jpg", "confidence": "0.6240318", "predict": "unicycle, monocycle"}
+{"picture_name": "三笠.jpg", "confidence": "0.14498171", "predict": "comic book"}
+{"picture_name": "adv_三笠.jpg", "confidence": "0.6240318", "predict": "unicycle, monocycle"}
+{"picture_name": "9933031-large.jpg", "confidence": "0.43742743", "predict": "mountain bike, all-terrain bike, off-roader"}
+{"picture_name": "adv_9933031-large.jpg", "confidence": "0.5771808", "predict": "unicycle, monocycle"}
+{"picture_name": "timg?image&quality=80&size=b9999_10000&sec=1530372900391&di=613136c75253e2ae470dea7a230cd2f3&imgtype=0&src=http%3A%2F%2Fimgsrc.baidu.com%2Fimgad%2Fpic%2Fitem%2F3801213fb80e7beca9004ec5252eb9389b506b38.jpg", "confidence": "0.5833821", "predict": "boathouse"}
+{"picture_name": "adv_timg?image&quality=80&size=b9999_10000&sec=1530372900391&di=613136c75253e2ae470dea7a230cd2f3&imgtype=0&src=http%3A%2F%2Fimgsrc.baidu.com%2Fimgad%2Fpic%2Fitem%2F3801213fb80e7beca9004ec5252eb9389b506b38.jpg", "confidence": "0.48108903", "predict": "fountain"}
+{"picture_name": "1.jpg", "confidence": "0.5833821", "predict": "boathouse"}
+{"picture_name": "adv_1.jpg", "confidence": "0.48108903", "predict": "fountain"}
+{"picture_name": "1.jpg", "confidence": "0.5833821", "predict": "boathouse"}
+{"picture_name": "adv_1.jpg", "confidence": "0.48108903", "predict": "fountain"}
+{"picture_name": "1.jpg", "confidence": "0.5833821", "predict": "boathouse"}
+{"picture_name": "adv_1.jpg", "confidence": "0.48108903", "predict": "fountain"}
+{"picture_name": "2.jpg", "confidence": "0.5833821", "predict": "boathouse"}
+{"picture_name": "adv_2.jpg", "confidence": "0.48108903", "predict": "fountain"}
+{"picture_name": "三笠.jpg", "confidence": "0.14498171", "predict": "comic book"}
+{"picture_name": "adv_三笠.jpg", "confidence": "0.6240318", "predict": "unicycle, monocycle"}
+{"picture_name": "三笠.jpg", "confidence": "0.14498171", "predict": "comic book"}
+{"picture_name": "adv_三笠.jpg", "confidence": "0.6240318", "predict": "unicycle, monocycle"}
+{"picture_name": "mikasa_ackerman-003.jpg", "confidence": "0.38987145", "predict": "brassiere, bra, bandeau"}
+{"picture_name": "adv_mikasa_ackerman-003.jpg", "confidence": "0.9302923", "predict": "breastplate, aegis, egis"}
+{"picture_name": "mikasa_ackerman-003.jpg", "confidence": "0.38987145", "predict": "brassiere, bra, bandeau"}
+{"picture_name": "adv_mikasa_ackerman-003.jpg", "confidence": "0.9302923", "predict": "breastplate, aegis, egis"}
+{"picture_name": "mikasa_ackerman-003.jpg", "confidence": "0.38987145", "predict": "brassiere, bra, bandeau"}
+{"picture_name": "adv_mikasa_ackerman-003.jpg", "confidence": "0.9302923", "predict": "breastplate, aegis, egis"}
+{"picture_name": "mikasa_ackerman-003.jpg", "confidence": "0.38987145", "predict": "brassiere, bra, bandeau"}
+{"picture_name": "adv_mikasa_ackerman-003.jpg", "confidence": "0.9302923", "predict": "breastplate, aegis, egis"}
+{"picture_name": "1.jpg", "confidence": "0.5833821", "predict": "boathouse"}
+{"picture_name": "adv_1.jpg", "confidence": "0.48108903", "predict": "fountain"}
+{"picture_name": "1.jpg", "confidence": "0.5833821", "predict": "boathouse"}
+{"picture_name": "adv_1.jpg", "confidence": "0.48108903", "predict": "fountain"}
+{"picture_name": "1.jpg", "confidence": "0.5833821", "predict": "boathouse"}
+{"picture_name": "adv_1.jpg", "confidence": "0.48108903", "predict": "fountain"}
+{"picture_name": "三笠.jpg", "confidence": "0.14498171", "predict": "comic book"}
+{"picture_name": "adv_三笠.jpg", "confidence": "0.6240318", "predict": "unicycle, monocycle"}
+{"picture_name": "1.jpg", "confidence": "0.14498171", "predict": "comic book"}
+{"picture_name": "adv_1.jpg", "confidence": "0.53409934", "predict": "unicycle, monocycle"}
+{"picture_name": "三笠.jpg", "confidence": "0.14498171", "predict": "comic book"}
+{"picture_name": "adv_三笠.jpg", "confidence": "0.6240318", "predict": "unicycle, monocycle"}
+{"picture_name": "ILSVRC2012_val_00000001.JPEG", "confidence": "0.65365183", "predict": "sea snake"}
+{"picture_name": "ILSVRC2012_val_00000001.JPEG", "confidence": "0.65365183", "predict": "sea snake"}
+{"picture_name": "adv_ILSVRC2012_val_00000001.JPEG", "confidence": "0.86904716", "predict": "American alligator, Alligator mississipiensis"}
+{"picture_name": "ILSVRC2012_val_00000001.JPEG", "confidence": "0.65365183", "predict": "sea snake"}
+{"picture_name": "ILSVRC2012_val_00000001.JPEG", "confidence": "0.65365183", "predict": "sea snake"}
+{"picture_name": "ILSVRC2012_val_00000001.JPEG", "confidence": "0.65365183", "predict": "sea snake"}
+{"picture_name": "adv_ILSVRC2012_val_00000001.JPEG", "confidence": "0.86904716", "predict": "American alligator, Alligator mississipiensis"}
+{"picture_name": "ILSVRC2012_val_00000001.JPEG", "confidence": "0.65365183", "predict": "sea snake"}
+{"picture_name": "adv_ILSVRC2012_val_00000001.JPEG", "confidence": "0.86904716", "predict": "American alligator, Alligator mississipiensis"}
+{"picture_name": "ILSVRC2012_val_00000001.JPEG", "confidence": "0.65365183", "predict": "sea snake"}
+{"picture_name": "adv_ILSVRC2012_val_00000001.JPEG", "confidence": "0.86904716", "predict": "American alligator, Alligator mississipiensis"}
+{"picture_name": "ILSVRC2012_val_00000001.JPEG", "confidence": "0.65365183", "predict": "sea snake"}
+{"picture_name": "ILSVRC2012_val_00000001.JPEG", "confidence": "0.65365183", "predict": "sea snake"}
+{"picture_name": "ILSVRC2012_val_00000001.JPEG", "confidence": "0.65365183", "predict": "sea snake"}
+{"picture_name": "adv_ILSVRC2012_val_00000001.JPEG", "confidence": "0.5897631", "predict": "American alligator, Alligator mississipiensis"}
+{"picture_name": "ILSVRC2012_val_00049924.JPEG", "confidence": "0.40455619", "predict": "lipstick, lip rouge"}
+{"picture_name": "adv_ILSVRC2012_val_00049924.JPEG", "confidence": "0.12607966", "predict": "spotlight, spot"}
+{"picture_name": "ILSVRC2012_val_00049924.JPEG", "confidence": "0.40455619", "predict": "lipstick, lip rouge"}
+{"picture_name": "ILSVRC2012_val_00049975.JPEG", "confidence": "0.4588933", "predict": "horned viper, cerastes, sand viper, horned asp, Cerastes cornutus"}
+{"picture_name": "ILSVRC2012_val_00049975.JPEG", "confidence": "0.4588933", "predict": "horned viper, cerastes, sand viper, horned asp, Cerastes cornutus"}
+{"picture_name": "ILSVRC2012_val_00049975.JPEG", "confidence": "0.4588933", "predict": "horned viper, cerastes, sand viper, horned asp, Cerastes cornutus"}
+{"picture_name": "ILSVRC2012_val_00049975.JPEG", "confidence": "0.4588933", "predict": "horned viper, cerastes, sand viper, horned asp, Cerastes cornutus"}
+{"picture_name": "ILSVRC2012_val_00049975.JPEG", "confidence": "0.4588933", "predict": "horned viper, cerastes, sand viper, horned asp, Cerastes cornutus"}
+{"picture_name": "adv_ILSVRC2012_val_00049975.JPEG", "confidence": "0.2688984", "predict": "Walker hound, Walker foxhound"}
+{"picture_name": "ILSVRC2012_val_00049910.JPEG", "confidence": "0.9888745", "predict": "manhole cover"}
+{"picture_name": "adv_ILSVRC2012_val_00049910.JPEG", "confidence": "0.19413415", "predict": "power drill"}
