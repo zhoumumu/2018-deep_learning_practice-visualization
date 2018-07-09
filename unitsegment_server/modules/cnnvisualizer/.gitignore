@@ -1,0 +1,6 @@
+__pycache__/
+datasets/
+resnet.py
+results/
+snapshots/
+*.pyc
